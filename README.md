@@ -69,18 +69,15 @@ python app.py
 
 ## 📌 Results
 
-## 📈 User Interface of the Exercise Tracking System
+##  User Interface of the Exercise Tracking System
 ![user interface](images/user_interface.png)
 
-## 🧪 Backend Infrastructure Architecture
-![Backend Architecture](images/Backend_Infrastructure_Architecture.png)
+##  Backend Infrastructure Architecture
+![Backend Infrastructure Architecture](images/Backend_Infrastructure_Architecture.png)
 
 ## Pose Estimation Engine
 ![Pose Estimation Engine](images/Pose%20Estimation%20Engine.jpg)
 
-
-## Pose Estimation Engine
-![Pose Estimation Engine](images/Pose%20Estimation%20Engine.jpg)
 
 ---
 
