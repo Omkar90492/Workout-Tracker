@@ -19,8 +19,6 @@ Designed with accessibility in mind, the project leverages OpenCV, MediaPipe, an
 
 📁 Project Structure
 -------------------
-workout-tracker/
-│
 - static/                 # Static assets (CSS, JS, media)
 - templates/              # HTML templates (Flask)
 - app.py                  # Flask backend
