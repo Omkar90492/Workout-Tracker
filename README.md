@@ -72,14 +72,11 @@ python app.py
 ## 📈 User Interface of the Exercise Tracking System
 ![user interface](images/user_interface.png)
 
-## 🧪 Confusion Matrix - XGBoost
-![XGBoost](images/confusion_matrix_xgboost.png)
+## 🧪 Backend Infrastructure Architecture
+![Backend Architecture](images/Backend_Infrastructure_Architecture.png)
 
-## 🌲 Confusion Matrix - Random Forest
-![RandomForest](images/confusion_matrix_randomforest.png)
-
-## 💻 Confusion Matrix - SVC
-![SVC](images/confusion_matrix_svc.png)
+## Pose Estimation Engine
+![Pose Estimation Engine](images/Pose%20Estimation%20Engine.jpg)
 
 ---
 
