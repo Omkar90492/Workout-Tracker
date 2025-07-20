@@ -32,16 +32,11 @@ Designed with accessibility in mind, the project leverages OpenCV, MediaPipe, an
 
 ## 🧠 Tech Stack
 
-- **Python 3.7+** – Programming language  
-- **Pandas** – Data loading and preprocessing  
-- **NumPy** – Numerical operations  
-- **Matplotlib** – Basic data visualization  
-- **Seaborn** – Statistical plotting (optional)  
-- **Scikit-learn** – Machine learning models and evaluation  
-  - RandomForest, SVC, train-test split, metrics  
-- **XGBoost** – Gradient boosting classifier  
-- **Imbalanced-learn (SMOTE)** – Class imbalance handling  
-- **Pickle** – Saving and loading trained models
+- Python 3.9+
+- OpenCV – Video capture and frame handling
+= MediaPipe – Pose detection and analysis
+- Flask – Web framework for UI and backend
+- HTML/CSS/JavaScript – Frontend display
   
 ---
 
