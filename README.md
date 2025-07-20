@@ -73,7 +73,7 @@ python app.py
 ![user interface](images/user_interface.png)
 
 ## 🧪 Backend Infrastructure Architecture
-![Backend Architecture](images/Backend_Infrastructure_Architecture.png)
+![Backend Architecture](images/Backend%20Infrastructure%20Architecture.png)
 
 ## Pose Estimation Engine
 ![Pose Estimation Engine](images/Pose%20Estimation%20Engine.jpg)
