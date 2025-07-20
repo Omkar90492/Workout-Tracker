@@ -99,7 +99,7 @@ python app.py
 - Internet browser (for Flask UI)
 - Pip installed
 - Recommended: Virtual environment (venv)
-- 
+  
 ---
 
 ## ✅ 📌 Conclusion
@@ -112,7 +112,7 @@ The project can evolve into a full-fledged fitness assistant with:
 - ⌚ Wearable integration
 - 📱 Cross-platform (iOS/Android) support
 
- We’re proud of the progress and excited to expand the app for real-world impact.
+
 ---
 
 ## ✅ 📌 Key outcomes
