@@ -70,7 +70,7 @@ python app.py
 ## 📌 Results
 
 ## 📈 User Interface of the Exercise Tracking System
-![user interface](images/user_interface.jpg)
+![user interface](images/user_interface.png)
 
 ## 🧪 Confusion Matrix - XGBoost
 ![XGBoost](images/confusion_matrix_xgboost.png)
