@@ -19,11 +19,15 @@ Designed with accessibility in mind, the project leverages OpenCV, MediaPipe, an
 
 📁 Project Structure
 -------------------
-- cancer_detection.py — Main script
-- requirements.txt — Dependencies
-- /models — Trained models
-- /data — Breast Cancer dataset
-- /notebooks — Jupyter notebook experiments
+workout-tracker/
+│
+- static/                 # Static assets (CSS, JS, media)
+- templates/              # HTML templates (Flask)
+- app.py                  # Flask backend
+- pose_estimation.py      # Pose estimation engine
+- utils.py                # Helper functions
+- requirements.txt        # Python dependencies
+- README.md               # Project documentation
 
   ---
 
