@@ -9,18 +9,11 @@ Designed with accessibility in mind, the project leverages OpenCV, MediaPipe, an
 ## ⚙️ Features
 
 - 📸 Camera-based pose estimation using MediaPipe
-
 - 🔁 Real-time repetition counting
-
 - 🧍 Posture and form detection
-
 - 📊 Performance analytics
-
 - 💬 Live feedback via web interface
-
 - ⚙️ No wearable devices needed — just a camera!
-
-
 
 ---
 
