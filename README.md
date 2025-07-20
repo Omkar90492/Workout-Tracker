@@ -1,7 +1,9 @@
 # 💪 Workout Tracker – Real-Time Exercise Monitoring System
 
 The Workout Tracker is a real-time exercise monitoring system that uses computer vision to analyze and improve user workouts. It tracks exercises like planks, push-ups, squats, and bicep curls using a standard webcam, providing real-time feedback, repetition counts, and posture correction through pose estimation.
+
 Designed with accessibility in mind, the project leverages OpenCV, MediaPipe, and Flask to offer a lightweight, responsive web-based interface that enhances the user’s fitness journey without requiring additional hardware.
+
 ---
 
 ## ⚙️ Features
